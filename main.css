@@ -1,7 +1,18 @@
 input {
   width: 75px;
   height: 75px;
-  margin: 0 auto;
+  box-sizing: border-box;
+  float: left;
+}
+
+.answers {
+  width: 225px;
+  background-color: gray;
+  color: white;
+}
+
+.container {
+  margin: 100px 300px;
 }
 
 .calcbuttons {
