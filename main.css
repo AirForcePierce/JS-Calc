@@ -1,4 +1,4 @@
-div .container{
+div {
   max-width: 100%;
   max-height: 100%;
 }
@@ -6,6 +6,8 @@ div .container{
 button {
   width: 75px;
   height: 75px;
+  margin:-3px -2px;
+  margin-left: -4px;
 }
 
 .calcbuttons {
