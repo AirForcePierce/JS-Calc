@@ -1,20 +1,13 @@
+* {
+  text-align: center;
+}
+
+/*Packers colors added*/
+
+body {
+  background-color: green;
+}
+
 input {
-  width: 75px;
-  height: 75px;
-  box-sizing: border-box;
-  float: left;
-}
-
-.answers {
-  width: 225px;
-  background-color: gray;
-  color: white;
-}
-
-.container {
-  margin: 100px 300px;
-}
-
-.calcbuttons {
-  width: 314px;
+  background-color: yellow;
 }
